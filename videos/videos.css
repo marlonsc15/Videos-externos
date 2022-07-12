@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: rgb(101, 101, 101);
+}
+
+button {
+    margin-top: 2%;
+    background-color: black;
+    border: none;
+    transition: .3s;
+}
+
+a {
+    font-size: 2em;
+    color: white;
+    text-decoration: none;   
+}
+
+button:hover {
+    background-color: red;
+}

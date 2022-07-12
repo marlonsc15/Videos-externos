@@ -1,0 +1,30 @@
+body {
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+    background-color: rgb(101, 101, 101);
+}
+
+#main {
+    align-items: center;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 5%;
+    
+}
+
+.imgs {
+ 
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.imgs img {
+    width: 24em;
+    height: 12em;
+    margin-bottom: 1em;
+    
+}
